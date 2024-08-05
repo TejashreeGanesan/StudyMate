@@ -1,8 +1,8 @@
-StudyMate
+#StudyMate
 
 I developed StudyMate, a responsive web application designed to support group study and collaborative learning among students. The application enables users to find and join study rooms based on their subjects of interest, fostering a collaborative environment where students can learn and grow together.
 
-Features
+*Features
 Find Study Rooms: I implemented a feature that allows users to browse and search for study rooms based on their academic interests. This functionality makes it easy for students to find relevant rooms and connect with others studying similar subjects.
 
 Join and Collaborate: I created a system where users can join study rooms and engage in collaborative study sessions. This feature supports interactive and peer-driven learning, enhancing the educational experience for students.
