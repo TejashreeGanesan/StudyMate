@@ -14,6 +14,7 @@ Responsive Design:
 The application is designed to be fully responsive, ensuring that it functions seamlessly across various devices, including desktops, tablets, and smartphones. I focused on creating a user-friendly interface that adapts to different screen sizes.
 
 **Tech Stack**
+
 Backend:
 I used Django, a powerful web framework, to handle the server-side logic, user management, and data processing. Django’s robust features and scalability were crucial in building the application's backend infrastructure.
 
